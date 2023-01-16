@@ -4,7 +4,12 @@
     background-color:black;
     width:150px;
     border-radius:10px;
-    color:white
+    color:white;
+    text-decoration: none;
+
+}
+a:hover{
+    text-decoration: none;
 }
 
 .heading
@@ -12,6 +17,7 @@
 font-size: 23px;
 width: 100%;
 margin: 0px;
+
 }
 
 #status
